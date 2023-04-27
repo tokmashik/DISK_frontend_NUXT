@@ -1,9 +1,8 @@
 <template>
-  
   <div>
     <Head>
-            <Title>Home</Title>
-        </Head>
+      <Title>DISK</Title>
+    </Head>
     <InputText />
     <Button label="Prime"></Button>
   </div><h1>ee</h1>
